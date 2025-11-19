@@ -53,4 +53,4 @@ I'm passionate about technology, web development and learning new things every d
 
 ## Social
 
-- 💼 LinkedIn: https://www.linkedin.com/in/marcos-david-mej%C3%ADa-g%C3%B3mez-120b55338/
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40" />](https://www.linkedin.com/in/marcos-david-mej%C3%ADa-g%C3%B3mez-120b55338/)
