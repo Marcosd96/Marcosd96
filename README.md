@@ -7,6 +7,8 @@ I'm passionate about technology, web development and learning new things every d
 
 ## 🧑‍💻 About me
 
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZmeTFxcXJrczljcHprYmczeTlkN2JtcGh5eWtxNDA5Z2Zobmd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="200" />
+
 - 🔗 Always learning about web, cloud and backend tech  
 - 🎮 Apart from coding, I like gaming  
 - ⚽ I enjoy playing soccer  
@@ -19,7 +21,6 @@ I'm passionate about technology, web development and learning new things every d
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcosd96&show_icons=true&theme=radical" height="150" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosd96&layout=compact&theme=radical" height="150" />
 
 </div>
@@ -42,12 +43,6 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 🐢 Fun GIF
-
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZmeTFxcXJrczljcHprYmczeTlkN2JtcGh5eWtxNDA5Z2Zobmd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="200"/>
-
----
-
 ## 🌐 Social
   
-- 💼 LinkedIn: https://www.linkedin.com/in/marcos-david-mej%C3%ADa-g%C3%B3mez-120b55338/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/marcos-david-mej%C3%ADa-g%C3%B3mez-120b55338/
