@@ -11,8 +11,8 @@ I'm passionate about technology, web development and learning new things every d
 
 <img 
   align="right"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZmeTFxcXJrczljcHprYmczeTlkN2JtcGh5eWtxNDA5Z2Zobmd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"
-  style="max-width: 180px; width: 100%; height: auto; margin-left: 12px;"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBoanZ4cjA1aHVjZnMya2htMnllMWNmM2wyMHNzd3J6ZGpmNTRxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KpACNEh8jXK2Q/giphy.webp"
+  style="max-width: 100px; width: 20%; height: auto; margin-left: 10px;"
 />
 
 - 🔗 Always learning about web, cloud and backend tech  
