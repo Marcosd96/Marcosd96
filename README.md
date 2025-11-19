@@ -7,15 +7,20 @@ I'm passionate about technology, web development and learning new things every d
 
 ## 🧑‍💻 About me
 
+<div style="overflow:hidden;">
+
 <img 
   align="right"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZmeTFxcXJrczljcHprYmczeTlkN2JtcGh5eWtxNDA5Z2Zobmd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" 
-  style="max-width: 200px; width: 100%; height: auto;" />
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZmeTFxcXJrczljcHprYmczeTlkN2JtcGh5eWtxNDA5Z2Zobmd0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"
+  style="max-width: 200px; width: 100%; height: auto; float: right; margin-left: 10px;"
+/>
 
 - 🔗 Always learning about web, cloud and backend tech  
 - 🎮 Apart from coding, I like gaming  
 - ⚽ I enjoy playing soccer  
 - 📬 Contact me if you need help or just to chat!
+
+</div>
 
 ---
 
