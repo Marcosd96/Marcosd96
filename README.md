@@ -5,7 +5,7 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 <div>
 
@@ -24,7 +24,7 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Marcosd96&theme=radical" />
@@ -43,7 +43,7 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,mysql,postgres,aws,git,linux" />
@@ -51,6 +51,6 @@ I'm passionate about technology, web development and learning new things every d
 
 ---
 
-## 🌐 Social
+## Social
 
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-david-mej%C3%ADa-g%C3%B3mez-120b55338/
